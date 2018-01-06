@@ -1,0 +1,3 @@
+var $a = 128;
+var $b = "hello"; 
+aff "hello"$a"lol"$b":)"$a""$b;

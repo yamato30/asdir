@@ -1,0 +1,4 @@
+aff "bonjour"
+var a = 200;
+calc $b to $a 2 , +
+aff $b
